@@ -1,0 +1,1848 @@
+{
+  "schema": 1,
+  "competition": "English Premier League",
+  "season": "2026-27",
+  "licence": "ODbL-1.0",
+  "licence_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "attribution": "Data from OpenLigaDB (ODbL 1.0), OpenFootball (CC0) and additional independently checked results.",
+  "sources": {
+    "openligadb": "https://www.openligadb.de/en/license",
+    "openfootball": "https://github.com/openfootball/football.json",
+    "desk": "https://mercatowire.com/premier-league/#latest-round"
+  },
+  "clubs": [
+    "AFC Bournemouth",
+    "Arsenal",
+    "Aston Villa",
+    "Brentford",
+    "Brighton & Hove Albion",
+    "Chelsea",
+    "Coventry City",
+    "Crystal Palace",
+    "Everton",
+    "Fulham",
+    "Hull City",
+    "Ipswich Town",
+    "Leeds United",
+    "Liverpool",
+    "Manchester City",
+    "Manchester United",
+    "Newcastle United",
+    "Nottingham Forest",
+    "Sunderland",
+    "Tottenham Hotspur"
+  ],
+  "through": "2026-11-23",
+  "updated_at": "2026-11-23T22:24:09Z",
+  "results": [
+    {
+      "date": "2026-08-21",
+      "round": 1,
+      "home": "Arsenal",
+      "away": "Coventry City",
+      "home_goals": 3,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86528",
+        "https://www.bbc.co.uk/sport/football/live/cmy0jjenxx24t"
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "round": 1,
+      "home": "Brentford",
+      "away": "Tottenham Hotspur",
+      "home_goals": 3,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86533",
+        "https://www.bbc.co.uk/sport/football/live/cj75g01qn51dt"
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "round": 1,
+      "home": "Everton",
+      "away": "Crystal Palace",
+      "home_goals": 2,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86530",
+        "https://www.bbc.co.uk/sport/football/live/cjn5nd1qr5qpt"
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "round": 1,
+      "home": "Hull City",
+      "away": "Manchester United",
+      "home_goals": 2,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86529",
+        "https://www.bbc.co.uk/sport/football/live/cv629k5zr2jxt"
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "round": 1,
+      "home": "Ipswich Town",
+      "away": "Sunderland",
+      "home_goals": 2,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86531",
+        "https://www.bbc.co.uk/sport/football/live/ckeqe8025qygt"
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "round": 1,
+      "home": "Nottingham Forest",
+      "away": "Leeds United",
+      "home_goals": 0,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86532",
+        "https://www.bbc.co.uk/sport/football/live/cm4gkdpw5qq7t"
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "round": 1,
+      "home": "Brighton & Hove Albion",
+      "away": "Aston Villa",
+      "home_goals": 4,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86534",
+        "https://www.bbc.co.uk/sport/football/live/c6wyqd9zkd9wt"
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "round": 1,
+      "home": "Manchester City",
+      "away": "AFC Bournemouth",
+      "home_goals": 2,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86535",
+        "https://www.bbc.co.uk/sport/football/live/c6n4ney5dex4t"
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "round": 1,
+      "home": "Newcastle United",
+      "away": "Liverpool",
+      "home_goals": 2,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86536",
+        "https://www.bbc.co.uk/sport/football/live/ck78gpd0yp38t"
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "round": 1,
+      "home": "Fulham",
+      "away": "Chelsea",
+      "home_goals": 2,
+      "away_goals": 3,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86537",
+        "https://www.bbc.co.uk/sport/football/live/cqp8xg4jy4r3t"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "round": 2,
+      "home": "Crystal Palace",
+      "away": "Manchester City",
+      "home_goals": 1,
+      "away_goals": 4,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86538",
+        "https://www.bbc.co.uk/sport/football/live/c84gwgggzpv4t"
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "round": 2,
+      "home": "AFC Bournemouth",
+      "away": "Everton",
+      "home_goals": 1,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86540",
+        "https://www.bbc.co.uk/sport/football/live/ckm2qnyv5l51t"
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "round": 2,
+      "home": "Coventry City",
+      "away": "Hull City",
+      "home_goals": 0,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86541",
+        "https://www.bbc.co.uk/sport/football/live/ck87vgrep8det"
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "round": 2,
+      "home": "Liverpool",
+      "away": "Nottingham Forest",
+      "home_goals": 2,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86539",
+        "https://www.bbc.co.uk/sport/football/live/c6zjzygmnddnt"
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "round": 2,
+      "home": "Tottenham Hotspur",
+      "away": "Newcastle United",
+      "home_goals": 0,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86542",
+        "https://www.bbc.co.uk/sport/football/live/crjw5316vlzgt"
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "round": 2,
+      "home": "Chelsea",
+      "away": "Brighton & Hove Albion",
+      "home_goals": 4,
+      "away_goals": 3,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86543",
+        "https://www.bbc.co.uk/sport/football/live/ck86x9wxl3x8t"
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "round": 2,
+      "home": "Leeds United",
+      "away": "Brentford",
+      "home_goals": 1,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86544",
+        "https://www.bbc.co.uk/sport/football/live/cmq8jxqj2vpet"
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "round": 2,
+      "home": "Manchester United",
+      "away": "Ipswich Town",
+      "home_goals": 5,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86546",
+        "https://www.bbc.co.uk/sport/football/live/cmkg8vx8wxept"
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "round": 2,
+      "home": "Sunderland",
+      "away": "Fulham",
+      "home_goals": 1,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86545",
+        "https://www.bbc.co.uk/sport/football/live/cq8e3lw3rk3pt"
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "round": 2,
+      "home": "Aston Villa",
+      "away": "Arsenal",
+      "home_goals": 0,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86547",
+        "https://www.bbc.co.uk/sport/football/live/cr93ep2n2ppdt"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "round": 3,
+      "home": "Ipswich Town",
+      "away": "Liverpool",
+      "home_goals": 0,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86548",
+        "https://www.bbc.co.uk/sport/football/live/c6vgy8x2z08et"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "round": 3,
+      "home": "Brentford",
+      "away": "Sunderland",
+      "home_goals": 1,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86550",
+        "https://www.bbc.co.uk/sport/football/live/c6wyzwjel44lt"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "round": 3,
+      "home": "Brighton & Hove Albion",
+      "away": "Leeds United",
+      "home_goals": 1,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86551",
+        "https://www.bbc.co.uk/sport/football/live/cxr5031vq5npt"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "round": 3,
+      "home": "Fulham",
+      "away": "Crystal Palace",
+      "home_goals": 2,
+      "away_goals": 3,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86552",
+        "https://www.bbc.co.uk/sport/football/live/c6zxz89ewxlyt"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "round": 3,
+      "home": "Hull City",
+      "away": "Aston Villa",
+      "home_goals": 0,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86555",
+        "https://www.bbc.co.uk/sport/football/live/c5n4kmv1j7z4t"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "round": 3,
+      "home": "Manchester City",
+      "away": "Coventry City",
+      "home_goals": 1,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86553",
+        "https://www.bbc.co.uk/sport/football/live/c6dj4d7xzjzkt"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "round": 3,
+      "home": "Newcastle United",
+      "away": "AFC Bournemouth",
+      "home_goals": 2,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86549",
+        "https://www.bbc.co.uk/sport/football/live/c6jrx89l5eejt"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "round": 3,
+      "home": "Nottingham Forest",
+      "away": "Tottenham Hotspur",
+      "home_goals": 0,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86554",
+        "https://www.bbc.co.uk/sport/football/live/c50m31j84m8xt"
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "round": 3,
+      "home": "Arsenal",
+      "away": "Chelsea",
+      "home_goals": 2,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86557",
+        "https://www.bbc.co.uk/sport/football/live/ck1wx0010el5t"
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "round": 3,
+      "home": "Everton",
+      "away": "Manchester United",
+      "home_goals": 2,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86556",
+        "https://www.bbc.co.uk/sport/football/live/crwyzggqgw5yt"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "round": 4,
+      "home": "AFC Bournemouth",
+      "away": "Brentford",
+      "home_goals": 2,
+      "away_goals": 2,
+      "source": "openfootball+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://github.com/openfootball/football.json/blob/e6744429ee395bc86f247348c6184bb08d4eb361/2026-27/en.1.json",
+        "https://www.brentfordfc.com/en/matches/mens/bournemouth-v-brentford-premier-league-20260912",
+        "https://www.premierleague.com/en/match/2645225/bournemouth-vs-brentford/highlights",
+        "https://www.bbc.co.uk/sport/football/live/cj62e519x7zpt"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "round": 4,
+      "home": "Aston Villa",
+      "away": "Nottingham Forest",
+      "home_goals": 1,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86559",
+        "https://www.bbc.co.uk/sport/football/live/cmgjqgx8pyv4t"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "round": 4,
+      "home": "Chelsea",
+      "away": "Hull City",
+      "home_goals": 2,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86560",
+        "https://www.bbc.co.uk/sport/football/live/c6rr4q87p272t"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "round": 4,
+      "home": "Crystal Palace",
+      "away": "Ipswich Town",
+      "home_goals": 2,
+      "away_goals": 3,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86561",
+        "https://www.bbc.co.uk/sport/football/live/cmr4vw7zpeelt"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "round": 4,
+      "home": "Liverpool",
+      "away": "Fulham",
+      "home_goals": 0,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86562",
+        "https://www.bbc.co.uk/sport/football/live/cv5yj7z2xp2kt"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "round": 4,
+      "home": "Sunderland",
+      "away": "Arsenal",
+      "home_goals": 0,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86564",
+        "https://www.bbc.co.uk/sport/football/live/cw23xgym2p5zt"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "round": 4,
+      "home": "Tottenham Hotspur",
+      "away": "Everton",
+      "home_goals": 0,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86563",
+        "https://www.bbc.co.uk/sport/football/live/cqx2zkde1xpet"
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "round": 4,
+      "home": "Coventry City",
+      "away": "Brighton & Hove Albion",
+      "home_goals": 0,
+      "away_goals": 5,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86565",
+        "https://www.bbc.co.uk/sport/football/live/cq4g7z2yv2n4t"
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "round": 4,
+      "home": "Manchester United",
+      "away": "Manchester City",
+      "home_goals": 0,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86566",
+        "https://www.bbc.co.uk/sport/football/live/cmdx50vd2v2yt"
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "round": 4,
+      "home": "Leeds United",
+      "away": "Newcastle United",
+      "home_goals": 4,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86567",
+        "https://www.bbc.co.uk/sport/football/live/ckz7z14eelwjt"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "round": 5,
+      "home": "Brentford",
+      "away": "Chelsea",
+      "home_goals": 3,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86568",
+        "https://www.bbc.co.uk/sport/football/live/cmrl69xy3lyyt"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "round": 5,
+      "home": "Brighton & Hove Albion",
+      "away": "Arsenal",
+      "home_goals": 3,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86570",
+        "https://www.bbc.co.uk/sport/football/live/c65ym9ml19d0t"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "round": 5,
+      "home": "Everton",
+      "away": "Ipswich Town",
+      "home_goals": 1,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86571",
+        "https://www.bbc.co.uk/sport/football/live/cr3wj7jxgz0pt"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "round": 5,
+      "home": "Newcastle United",
+      "away": "Hull City",
+      "home_goals": 2,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86574",
+        "https://www.bbc.co.uk/sport/football/live/cmwyzlz78ljgt"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "round": 5,
+      "home": "Nottingham Forest",
+      "away": "Coventry City",
+      "home_goals": 0,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86575",
+        "https://www.bbc.co.uk/sport/football/live/cmwyzwzn9wzwt"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "round": 5,
+      "home": "Tottenham Hotspur",
+      "away": "Aston Villa",
+      "home_goals": 2,
+      "away_goals": 3,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86569",
+        "https://www.bbc.co.uk/sport/football/live/cqvgyryp28xnt"
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "round": 5,
+      "home": "AFC Bournemouth",
+      "away": "Liverpool",
+      "home_goals": 0,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86576",
+        "https://www.bbc.co.uk/sport/football/live/cm780vzql09qt"
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "round": 5,
+      "home": "Fulham",
+      "away": "Manchester United",
+      "home_goals": 1,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86577",
+        "https://www.bbc.co.uk/sport/football/live/cqvgy1vzey9rt"
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "round": 5,
+      "home": "Leeds United",
+      "away": "Crystal Palace",
+      "home_goals": 0,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86572",
+        "https://www.bbc.co.uk/sport/football/live/ck20lg72qlj8t"
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "round": 5,
+      "home": "Manchester City",
+      "away": "Sunderland",
+      "home_goals": 5,
+      "away_goals": 3,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86573",
+        "https://www.bbc.co.uk/sport/football/live/cklyjwdp6j4dt"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "round": 6,
+      "home": "Arsenal",
+      "away": "Leeds United",
+      "home_goals": 2,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86578",
+        "https://www.bbc.co.uk/sport/football/live/c620rnn3zg17t"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "round": 6,
+      "home": "Aston Villa",
+      "away": "Brentford",
+      "home_goals": 2,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86579",
+        "https://www.bbc.co.uk/sport/football/live/cqx28nnpddd4t"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "round": 6,
+      "home": "Chelsea",
+      "away": "AFC Bournemouth",
+      "home_goals": 5,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86580",
+        "https://www.bbc.co.uk/sport/football/live/cmdx3yyeggw0t"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "round": 6,
+      "home": "Ipswich Town",
+      "away": "Fulham",
+      "home_goals": 2,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86581",
+        "https://www.bbc.co.uk/sport/football/live/c5j9knn18r08t"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "round": 6,
+      "home": "Manchester United",
+      "away": "Tottenham Hotspur",
+      "home_goals": 1,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86583",
+        "https://www.bbc.co.uk/sport/football/live/cmpwgrrx0nqpt"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "round": 6,
+      "home": "Sunderland",
+      "away": "Brighton & Hove Albion",
+      "home_goals": 0,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86582",
+        "https://www.bbc.co.uk/sport/football/live/cjzxlvvk440lt"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "round": 6,
+      "home": "Crystal Palace",
+      "away": "Nottingham Forest",
+      "home_goals": 3,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86584",
+        "https://www.bbc.co.uk/sport/football/live/c63el8xwn529t"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "round": 6,
+      "home": "Hull City",
+      "away": "Everton",
+      "home_goals": 2,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86585",
+        "https://www.bbc.co.uk/sport/football/live/cky83n1lgd21t"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "round": 6,
+      "home": "Liverpool",
+      "away": "Manchester City",
+      "home_goals": 0,
+      "away_goals": 3,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86586",
+        "https://www.bbc.co.uk/sport/football/live/cr3el8xwnnxkt"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "round": 6,
+      "home": "Coventry City",
+      "away": "Newcastle United",
+      "home_goals": 4,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86587",
+        "https://www.bbc.co.uk/sport/football/live/cwm23l547e4pt"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "round": 7,
+      "home": "Brentford",
+      "away": "Liverpool",
+      "home_goals": 1,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86589",
+        "https://www.bbc.co.uk/sport/football/live/crx2d6pvzwg1t"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "round": 7,
+      "home": "Everton",
+      "away": "Chelsea",
+      "home_goals": 0,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86588",
+        "https://www.bbc.co.uk/sport/football/live/c6398j10mrrxt"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "round": 7,
+      "home": "Fulham",
+      "away": "Hull City",
+      "home_goals": 1,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86590",
+        "https://www.bbc.co.uk/sport/football/live/cx98zgy30d4zt"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "round": 7,
+      "home": "Manchester City",
+      "away": "Ipswich Town",
+      "home_goals": 3,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86591",
+        "https://www.bbc.co.uk/sport/football/live/cky83qp9z4v2t"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "round": 7,
+      "home": "Newcastle United",
+      "away": "Aston Villa",
+      "home_goals": 0,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86592",
+        "https://www.bbc.co.uk/sport/football/live/cqj34xe0dy2kt"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "round": 7,
+      "home": "AFC Bournemouth",
+      "away": "Sunderland",
+      "home_goals": 2,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86593",
+        "https://www.bbc.co.uk/sport/football/live/cwe9l25yyr28t"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "round": 7,
+      "home": "Brighton & Hove Albion",
+      "away": "Crystal Palace",
+      "home_goals": 5,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86594",
+        "https://www.bbc.co.uk/sport/football/live/cr15jvy00kz1t"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "round": 7,
+      "home": "Leeds United",
+      "away": "Manchester United",
+      "home_goals": 1,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86595",
+        "https://www.bbc.co.uk/sport/football/live/cwzrdvx44pkpt"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "round": 7,
+      "home": "Nottingham Forest",
+      "away": "Arsenal",
+      "home_goals": 0,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86596",
+        "https://www.bbc.co.uk/sport/football/live/cq62yg1vvl1lt"
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "round": 7,
+      "home": "Tottenham Hotspur",
+      "away": "Coventry City",
+      "home_goals": 3,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86597",
+        "https://www.bbc.co.uk/sport/football/live/cq99z1401xljt"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "round": 8,
+      "home": "Ipswich Town",
+      "away": "Nottingham Forest",
+      "home_goals": 1,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86598",
+        "https://www.bbc.co.uk/sport/football/live/cmn0628p5rkyt"
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "round": 8,
+      "home": "Arsenal",
+      "away": "Everton",
+      "home_goals": 2,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86600",
+        "https://www.bbc.co.uk/sport/football/live/c6vgj4p7dzd7t"
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "round": 8,
+      "home": "Aston Villa",
+      "away": "Manchester City",
+      "home_goals": 2,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86599",
+        "https://www.bbc.co.uk/sport/football/live/cj62ynzwg4pet"
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "round": 8,
+      "home": "Chelsea",
+      "away": "Tottenham Hotspur",
+      "home_goals": 0,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86603",
+        "https://www.bbc.co.uk/sport/football/live/cwj0l7zr4pd9t"
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "round": 8,
+      "home": "Coventry City",
+      "away": "Fulham",
+      "home_goals": 0,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86601",
+        "https://www.bbc.co.uk/sport/football/live/cq398rj0l38mt"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "round": 8,
+      "home": "Crystal Palace",
+      "away": "Newcastle United",
+      "home_goals": 0,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86604",
+        "https://www.bbc.co.uk/sport/football/live/cmde8r06wxp3t"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "round": 8,
+      "home": "Hull City",
+      "away": "Brentford",
+      "home_goals": 1,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86605",
+        "https://www.bbc.co.uk/sport/football/live/cxly4950egynt"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "round": 8,
+      "home": "Liverpool",
+      "away": "Brighton & Hove Albion",
+      "home_goals": 2,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86602",
+        "https://www.bbc.co.uk/sport/football/live/cmdx325w7gy6t"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "round": 8,
+      "home": "Manchester United",
+      "away": "AFC Bournemouth",
+      "home_goals": 0,
+      "away_goals": 3,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86606",
+        "https://www.bbc.co.uk/sport/football/live/ck62yqmle02mt"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "round": 8,
+      "home": "Sunderland",
+      "away": "Leeds United",
+      "home_goals": 0,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86607",
+        "https://www.bbc.co.uk/sport/football/live/c6x23nz5v894t"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "round": 9,
+      "home": "AFC Bournemouth",
+      "away": "Leeds United",
+      "home_goals": 2,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86609",
+        "https://www.bbc.co.uk/sport/football/live/cq5ynj2r87rpt"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "round": 9,
+      "home": "Aston Villa",
+      "away": "Fulham",
+      "home_goals": 1,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86615",
+        "https://www.bbc.co.uk/sport/football/live/cq0ldj4pnz10t"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "round": 9,
+      "home": "Brentford",
+      "away": "Nottingham Forest",
+      "home_goals": 2,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86610",
+        "https://www.bbc.co.uk/sport/football/live/cwzd68v5yl4zt"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "round": 9,
+      "home": "Chelsea",
+      "away": "Manchester United",
+      "home_goals": 2,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86608",
+        "https://www.bbc.co.uk/sport/football/live/c6z7xglw0ewzt"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "round": 9,
+      "home": "Coventry City",
+      "away": "Sunderland",
+      "home_goals": 3,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86611",
+        "https://www.bbc.co.uk/sport/football/live/ck7vpjr37devt"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "round": 9,
+      "home": "Hull City",
+      "away": "Ipswich Town",
+      "home_goals": 2,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86612",
+        "https://www.bbc.co.uk/sport/football/live/cxq6nqml97e0t"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "round": 9,
+      "home": "Manchester City",
+      "away": "Brighton & Hove Albion",
+      "home_goals": 0,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86613",
+        "https://www.bbc.co.uk/sport/football/live/c6x2v4k8e0y9t"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "round": 9,
+      "home": "Tottenham Hotspur",
+      "away": "Crystal Palace",
+      "home_goals": 2,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86614",
+        "https://www.bbc.co.uk/sport/football/live/c9gkv231djj2t"
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "round": 9,
+      "home": "Liverpool",
+      "away": "Arsenal",
+      "home_goals": 0,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86616",
+        "https://www.bbc.co.uk/sport/football/live/cqev37r8jvvxt"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "round": 9,
+      "home": "Newcastle United",
+      "away": "Everton",
+      "home_goals": 0,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86617",
+        "https://www.bbc.co.uk/sport/football/live/cq2d68r9y6kwt"
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "round": 10,
+      "home": "Everton",
+      "away": "Coventry City",
+      "home_goals": 3,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86621",
+        "https://www.bbc.co.uk/sport/football/live/cr15jy8xy50jt"
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "round": 10,
+      "home": "Arsenal",
+      "away": "Hull City",
+      "home_goals": 1,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86618",
+        "https://www.bbc.co.uk/sport/football/live/c64g1dvlpjzkt"
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "round": 10,
+      "home": "Fulham",
+      "away": "Newcastle United",
+      "home_goals": 1,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86622",
+        "https://www.bbc.co.uk/sport/football/live/c6gr87qy1zd1t"
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "round": 10,
+      "home": "Leeds United",
+      "away": "Tottenham Hotspur",
+      "home_goals": 1,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86624",
+        "https://www.bbc.co.uk/sport/football/live/cq33x0rvmjret"
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "round": 10,
+      "home": "Nottingham Forest",
+      "away": "Manchester City",
+      "home_goals": 3,
+      "away_goals": 1,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86626",
+        "https://www.bbc.co.uk/sport/football/live/c5wyrmwlv8wvt"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "round": 10,
+      "home": "Brighton & Hove Albion",
+      "away": "Brentford",
+      "home_goals": 2,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86619",
+        "https://www.bbc.co.uk/sport/football/live/cqkgkwj1rpl8t"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "round": 10,
+      "home": "Crystal Palace",
+      "away": "Liverpool",
+      "home_goals": 1,
+      "away_goals": 3,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86620",
+        "https://www.bbc.co.uk/sport/football/live/c6r7ydrm8xlyt"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "round": 10,
+      "home": "Ipswich Town",
+      "away": "AFC Bournemouth",
+      "home_goals": 1,
+      "away_goals": 2,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86623",
+        "https://www.bbc.co.uk/sport/football/live/cr78p051jq06t"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "round": 10,
+      "home": "Manchester United",
+      "away": "Aston Villa",
+      "home_goals": 4,
+      "away_goals": 4,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86625",
+        "https://www.bbc.co.uk/sport/football/live/cq2d6wgrey22t"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "round": 10,
+      "home": "Sunderland",
+      "away": "Chelsea",
+      "home_goals": 1,
+      "away_goals": 0,
+      "source": "openligadb+desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://api.openligadb.de/getmatchdata/86627",
+        "https://www.bbc.co.uk/sport/football/live/cwm23qne5pqyt"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "round": 11,
+      "home": "AFC Bournemouth",
+      "away": "Nottingham Forest",
+      "home_goals": 2,
+      "away_goals": 0,
+      "source": "desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://mercatowire.com/premier-league/#pl-2026-27-g11-afc-bournemouth-nottingham-forest",
+        "https://www.theguardian.com/football/premierleague/results",
+        "https://www.bbc.co.uk/sport/football/live/cr5y18vyynlxt"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "round": 11,
+      "home": "Aston Villa",
+      "away": "Sunderland",
+      "home_goals": 0,
+      "away_goals": 0,
+      "source": "desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://mercatowire.com/premier-league/#pl-2026-27-g11-aston-villa-sunderland",
+        "https://www.theguardian.com/football/premierleague/results",
+        "https://www.bbc.co.uk/sport/football/live/ck7v2e0vvpzdt"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "round": 11,
+      "home": "Chelsea",
+      "away": "Leeds United",
+      "home_goals": 1,
+      "away_goals": 4,
+      "source": "desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://mercatowire.com/premier-league/#pl-2026-27-g11-chelsea-leeds-united",
+        "https://www.theguardian.com/football/premierleague/results",
+        "https://www.bbc.co.uk/sport/football/live/c3dx19jxx15zt"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "round": 11,
+      "home": "Coventry City",
+      "away": "Crystal Palace",
+      "home_goals": 3,
+      "away_goals": 2,
+      "source": "desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://mercatowire.com/premier-league/#pl-2026-27-g11-coventry-city-crystal-palace",
+        "https://www.theguardian.com/football/premierleague/results",
+        "https://www.bbc.co.uk/sport/football/live/c6pw42nwwgvjt"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "round": 11,
+      "home": "Manchester City",
+      "away": "Fulham",
+      "home_goals": 1,
+      "away_goals": 1,
+      "source": "desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://mercatowire.com/premier-league/#pl-2026-27-g11-manchester-city-fulham",
+        "https://www.theguardian.com/football/premierleague/results",
+        "https://www.bbc.co.uk/sport/football/live/c3kgdxnggq7pt"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "round": 11,
+      "home": "Newcastle United",
+      "away": "Arsenal",
+      "home_goals": 2,
+      "away_goals": 2,
+      "source": "desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://mercatowire.com/premier-league/#pl-2026-27-g11-newcastle-united-arsenal",
+        "https://www.theguardian.com/football/premierleague/results",
+        "https://www.bbc.co.uk/sport/football/live/cqd01ey009rxt"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "round": 11,
+      "home": "Tottenham Hotspur",
+      "away": "Ipswich Town",
+      "home_goals": 2,
+      "away_goals": 0,
+      "source": "desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://mercatowire.com/premier-league/#pl-2026-27-g11-tottenham-hotspur-ipswich-town",
+        "https://www.theguardian.com/football/premierleague/results",
+        "https://www.bbc.co.uk/sport/football/live/c699exk99z54t"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "round": 11,
+      "home": "Hull City",
+      "away": "Brighton & Hove Albion",
+      "home_goals": 2,
+      "away_goals": 0,
+      "source": "desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://mercatowire.com/premier-league/#pl-2026-27-g11-hull-city-brighton-and-hove-albion",
+        "https://www.theguardian.com/football/premierleague/results",
+        "https://www.bbc.co.uk/sport/football/live/cky97ll8253wt"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "round": 11,
+      "home": "Liverpool",
+      "away": "Manchester United",
+      "home_goals": 4,
+      "away_goals": 0,
+      "source": "desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://mercatowire.com/premier-league/#pl-2026-27-g11-liverpool-manchester-united",
+        "https://www.theguardian.com/football/premierleague/results",
+        "https://www.bbc.co.uk/sport/football/live/cm62pqqw6d29t"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "round": 11,
+      "home": "Brentford",
+      "away": "Everton",
+      "home_goals": 4,
+      "away_goals": 0,
+      "source": "desk",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "references": [
+        "https://mercatowire.com/premier-league/#pl-2026-27-g11-brentford-everton",
+        "https://www.theguardian.com/football/premierleague/results",
+        "https://www.bbc.co.uk/sport/football/live/c64gnwyv7kvjt",
+        "https://www.brentfordfc.com/en/matches/mens/brentford-v-everton-premier-league-20261123"
+      ]
+    }
+  ],
+  "table": [
+    {
+      "rank": 1,
+      "team": "Arsenal",
+      "P": 11,
+      "W": 9,
+      "D": 1,
+      "L": 1,
+      "GF": 17,
+      "GA": 7,
+      "GD": 10,
+      "Pts": 28
+    },
+    {
+      "rank": 2,
+      "team": "Brighton & Hove Albion",
+      "P": 11,
+      "W": 7,
+      "D": 1,
+      "L": 3,
+      "GF": 26,
+      "GA": 9,
+      "GD": 17,
+      "Pts": 22
+    },
+    {
+      "rank": 3,
+      "team": "Manchester City",
+      "P": 11,
+      "W": 7,
+      "D": 1,
+      "L": 3,
+      "GF": 22,
+      "GA": 14,
+      "GD": 8,
+      "Pts": 22
+    },
+    {
+      "rank": 4,
+      "team": "Liverpool",
+      "P": 11,
+      "W": 6,
+      "D": 3,
+      "L": 2,
+      "GF": 18,
+      "GA": 10,
+      "GD": 8,
+      "Pts": 21
+    },
+    {
+      "rank": 5,
+      "team": "AFC Bournemouth",
+      "P": 11,
+      "W": 5,
+      "D": 3,
+      "L": 3,
+      "GF": 18,
+      "GA": 14,
+      "GD": 4,
+      "Pts": 18
+    },
+    {
+      "rank": 6,
+      "team": "Brentford",
+      "P": 11,
+      "W": 4,
+      "D": 5,
+      "L": 2,
+      "GF": 20,
+      "GA": 11,
+      "GD": 9,
+      "Pts": 17
+    },
+    {
+      "rank": 7,
+      "team": "Leeds United",
+      "P": 11,
+      "W": 4,
+      "D": 5,
+      "L": 2,
+      "GF": 14,
+      "GA": 9,
+      "GD": 5,
+      "Pts": 17
+    },
+    {
+      "rank": 8,
+      "team": "Chelsea",
+      "P": 11,
+      "W": 5,
+      "D": 1,
+      "L": 5,
+      "GF": 20,
+      "GA": 20,
+      "GD": 0,
+      "Pts": 16
+    },
+    {
+      "rank": 9,
+      "team": "Everton",
+      "P": 11,
+      "W": 4,
+      "D": 4,
+      "L": 3,
+      "GF": 12,
+      "GA": 14,
+      "GD": -2,
+      "Pts": 16
+    },
+    {
+      "rank": 10,
+      "team": "Tottenham Hotspur",
+      "P": 11,
+      "W": 4,
+      "D": 3,
+      "L": 4,
+      "GF": 12,
+      "GA": 11,
+      "GD": 1,
+      "Pts": 15
+    },
+    {
+      "rank": 11,
+      "team": "Hull City",
+      "P": 11,
+      "W": 3,
+      "D": 5,
+      "L": 3,
+      "GF": 13,
+      "GA": 11,
+      "GD": 2,
+      "Pts": 14
+    },
+    {
+      "rank": 12,
+      "team": "Aston Villa",
+      "P": 11,
+      "W": 3,
+      "D": 5,
+      "L": 3,
+      "GF": 14,
+      "GA": 17,
+      "GD": -3,
+      "Pts": 14
+    },
+    {
+      "rank": 13,
+      "team": "Newcastle United",
+      "P": 11,
+      "W": 3,
+      "D": 4,
+      "L": 4,
+      "GF": 15,
+      "GA": 18,
+      "GD": -3,
+      "Pts": 13
+    },
+    {
+      "rank": 14,
+      "team": "Coventry City",
+      "P": 11,
+      "W": 4,
+      "D": 0,
+      "L": 7,
+      "GF": 13,
+      "GA": 21,
+      "GD": -8,
+      "Pts": 12
+    },
+    {
+      "rank": 15,
+      "team": "Fulham",
+      "P": 11,
+      "W": 2,
+      "D": 5,
+      "L": 4,
+      "GF": 11,
+      "GA": 13,
+      "GD": -2,
+      "Pts": 11
+    },
+    {
+      "rank": 16,
+      "team": "Ipswich Town",
+      "P": 11,
+      "W": 3,
+      "D": 2,
+      "L": 6,
+      "GF": 15,
+      "GA": 22,
+      "GD": -7,
+      "Pts": 11
+    },
+    {
+      "rank": 17,
+      "team": "Nottingham Forest",
+      "P": 11,
+      "W": 2,
+      "D": 3,
+      "L": 6,
+      "GF": 9,
+      "GA": 15,
+      "GD": -6,
+      "Pts": 9
+    },
+    {
+      "rank": 18,
+      "team": "Sunderland",
+      "P": 11,
+      "W": 2,
+      "D": 3,
+      "L": 6,
+      "GF": 8,
+      "GA": 17,
+      "GD": -9,
+      "Pts": 9
+    },
+    {
+      "rank": 19,
+      "team": "Manchester United",
+      "P": 11,
+      "W": 1,
+      "D": 5,
+      "L": 5,
+      "GF": 14,
+      "GA": 23,
+      "GD": -9,
+      "Pts": 8
+    },
+    {
+      "rank": 20,
+      "team": "Crystal Palace",
+      "P": 11,
+      "W": 2,
+      "D": 1,
+      "L": 8,
+      "GF": 12,
+      "GA": 27,
+      "GD": -15,
+      "Pts": 7
+    }
+  ],
+  "corrections": [],
+  "source_notes": [
+    {
+      "home": "AFC Bournemouth",
+      "away": "Brentford",
+      "date": "2026-09-12",
+      "checked_at": "2026-11-23T22:24:09Z",
+      "reason": "OpenLigaDB listed 2-1. Brentford and the Premier League confirmed the 2-2 draw.",
+      "references": [
+        "https://www.brentfordfc.com/en/matches/mens/bournemouth-v-brentford-premier-league-20260912",
+        "https://www.premierleague.com/en/match/2645225/bournemouth-vs-brentford/highlights"
+      ]
+    }
+  ]
+}

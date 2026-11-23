@@ -27,6 +27,8 @@ If you've ever wanted to build a niche daily, this is the scaffold.
 - Verticalized AI Overview citation surface (because every piece carries
   ClaimReview + FAQPage + atomic-lede schema — adapt at your peril)
 
+The [Premier League results example](examples/football-results/) is a working sports desk. It checks two open data sources daily and publishes a downloadable table with the evidence for each final score.
+
 The pattern works wherever a beat is publishable daily and signal compounds
 with consistency.
 
