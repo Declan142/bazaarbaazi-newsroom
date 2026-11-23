@@ -75,6 +75,12 @@ class PublishedSnapshotTests(unittest.TestCase):
         self.assertNotIn('/getmatchdata/pl/2026/10', ' '.join(calls))
         self.assertEqual(set(old), {'10'})
 
+    def test_cached_public_revision_does_not_request_github_rest_or_a_new_download(self):
+        cache = {'revision': 'a'*40, 'finals': []}
+        with patch.object(refresh, 'public_revision', return_value=cache['revision']):
+            result = refresh.openfootball_feed(cache, lambda _: self.fail('unchanged revision was downloaded'))
+        self.assertIs(result, cache)
+
     def test_malformed_and_unattributed_snapshots_fail_closed(self):
         changed = copy.deepcopy(self.base)
         changed['table'][0]['Pts'] += 1
