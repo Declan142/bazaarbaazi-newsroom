@@ -1,6 +1,6 @@
 # A Premier League results desk
 
-The [season snapshot](snapshot.json) records each English Premier League 2026/27 final, its match date and source links. It includes a table computed from those scores. The [corresponding reader](https://mercatowire.com/premier-league/) also works with JavaScript switched off.
+Read the [standings and latest finals](standings.md), or download the [season snapshot](snapshot.json) for each confirmed match date, score and source link. Both views use the same English Premier League 2026/27 results. The [MercatoWire match centre](https://mercatowire.com/premier-league/) also works with JavaScript switched off.
 
 The first 110 matches cover 21 August to 23 November 2026. The original table was checked against all 20 rows in the [Premier League table](https://www.premierleague.com/en/tables/premier-league/2026-27) and [the Guardian](https://www.theguardian.com/football/premierleague/table). Games played, wins, draws, losses, goals and points agreed. The source notes record a September score where a community entry differed from [Brentford's official report](https://www.brentfordfc.com/en/matches/mens/bournemouth-v-brentford-premier-league-20260912).
 
@@ -17,6 +17,7 @@ Run with Python 3.11 or newer from the repository root.
 ```sh
 python3 -m unittest discover -s examples/football-results -q
 python3 examples/football-results/refresh.py
+python3 examples/football-results/render_table.py
 ```
 
 ## Reuse and credit
