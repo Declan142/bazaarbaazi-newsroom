@@ -1,0 +1,38 @@
+# Premier League table
+
+England, 2026/27. **110 confirmed matches through 23 November 2026.**
+
+| Pos | Club | P | W | D | L | GF | GA | GD | Pts |
+| --: | :--- | --: | --: | --: | --: | --: | --: | --: | --: |
+| 1 | Arsenal | 11 | 9 | 1 | 1 | 17 | 7 | +10 | 28 |
+| 2 | Brighton & Hove Albion | 11 | 7 | 1 | 3 | 26 | 9 | +17 | 22 |
+| 3 | Manchester City | 11 | 7 | 1 | 3 | 22 | 14 | +8 | 22 |
+| 4 | Liverpool | 11 | 6 | 3 | 2 | 18 | 10 | +8 | 21 |
+| 5 | AFC Bournemouth | 11 | 5 | 3 | 3 | 18 | 14 | +4 | 18 |
+| 6 | Brentford | 11 | 4 | 5 | 2 | 20 | 11 | +9 | 17 |
+| 7 | Leeds United | 11 | 4 | 5 | 2 | 14 | 9 | +5 | 17 |
+| 8 | Chelsea | 11 | 5 | 1 | 5 | 20 | 20 | 0 | 16 |
+| 9 | Everton | 11 | 4 | 4 | 3 | 12 | 14 | -2 | 16 |
+| 10 | Tottenham Hotspur | 11 | 4 | 3 | 4 | 12 | 11 | +1 | 15 |
+| 11 | Hull City | 11 | 3 | 5 | 3 | 13 | 11 | +2 | 14 |
+| 12 | Aston Villa | 11 | 3 | 5 | 3 | 14 | 17 | -3 | 14 |
+| 13 | Newcastle United | 11 | 3 | 4 | 4 | 15 | 18 | -3 | 13 |
+| 14 | Coventry City | 11 | 4 | 0 | 7 | 13 | 21 | -8 | 12 |
+| 15 | Fulham | 11 | 2 | 5 | 4 | 11 | 13 | -2 | 11 |
+| 16 | Ipswich Town | 11 | 3 | 2 | 6 | 15 | 22 | -7 | 11 |
+| 17 | Nottingham Forest | 11 | 2 | 3 | 6 | 9 | 15 | -6 | 9 |
+| 18 | Sunderland | 11 | 2 | 3 | 6 | 8 | 17 | -9 | 9 |
+| 19 | Manchester United | 11 | 1 | 5 | 5 | 14 | 23 | -9 | 8 |
+| 20 | Crystal Palace | 11 | 2 | 1 | 8 | 12 | 27 | -15 | 7 |
+
+## Confirmed finals on 23 November 2026
+
+- **Brentford 4-0 Everton**. [mercatowire.com](https://mercatowire.com/premier-league/#pl-2026-27-g11-brentford-everton), [theguardian.com](https://www.theguardian.com/football/premierleague/results), [bbc.co.uk](https://www.bbc.co.uk/sport/football/live/c64gnwyv7kvjt), [brentfordfc.com](https://www.brentfordfc.com/en/matches/mens/brentford-v-everton-premier-league-20261123).
+
+## Source notes
+
+- AFC Bournemouth v Brentford, played 12 September 2026. OpenLigaDB listed 2-1. Brentford and the Premier League confirmed the 2-2 draw. Checked 23 November 2026. [brentfordfc.com](https://www.brentfordfc.com/en/matches/mens/bournemouth-v-brentford-premier-league-20260912), [premierleague.com](https://www.premierleague.com/en/match/2645225/bournemouth-vs-brentford/highlights).
+
+The table counts points won on the pitch. Clubs level on points, goal difference and goals scored share a rank. The [official league table](https://www.premierleague.com/en/tables/premier-league/2026-27) records league rulings.
+
+Data from [OpenLigaDB](https://www.openligadb.de/en/license) under [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/), [OpenFootball](https://github.com/openfootball/football.json) under CC0 and independently checked match results. [Download every result and its sources](snapshot.json).
