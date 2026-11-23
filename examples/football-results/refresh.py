@@ -4,6 +4,8 @@ import argparse
 import json
 import os
 import re
+import subprocess
+import tempfile
 import time
 from datetime import date, datetime, timezone
 from pathlib import Path
@@ -56,11 +58,22 @@ def write_json(path, payload):
     return True
 
 
+def public_revision():
+    # The anonymous Git protocol has no dependency on the REST quota shared by CI runners.
+    with tempfile.TemporaryDirectory() as empty:
+        result = subprocess.run(['git', 'ls-remote', '--exit-code', '--refs',
+                                 OPENFOOTBALL_REPO + '.git', 'refs/heads/master'],
+                                cwd=empty, text=True, capture_output=True, check=True, timeout=25,
+                                env={'PATH': os.defpath, 'GIT_TERMINAL_PROMPT': '0',
+                                     'GIT_CONFIG_NOSYSTEM': '1', 'GIT_CONFIG_GLOBAL': os.devnull})
+    match = re.fullmatch(r'([0-9a-f]{40})\s+refs/heads/master', result.stdout.strip())
+    if not match:
+        raise ValueError('Missing OpenFootball public master revision')
+    return match.group(1)
+
+
 def openfootball_feed(cache, fetch):
-    history = fetch('https://api.github.com/repos/openfootball/football.json/commits?path=2026-27%2Fen.1.json&per_page=1')
-    revision = history[0]['sha']
-    if not isinstance(revision, str) or not re.fullmatch('[0-9a-f]{40}', revision):
-        raise ValueError('Missing OpenFootball revision')
+    revision = public_revision()
     if cache.get('revision') != revision:
         url = f'https://raw.githubusercontent.com/openfootball/football.json/{revision}/{OPENFOOTBALL_FILE}'
         body = fetch(url)
